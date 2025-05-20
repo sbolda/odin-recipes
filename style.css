@@ -1,0 +1,38 @@
+.title {
+    padding: 30px;
+    margin: 20px;
+    text-align: center;
+    border: 5px  solid rgb(142, 173, 177);
+    background-color: rgb(174, 214, 110);
+}
+.list{
+    box-sizing: border-box;
+    height: text;
+    width: 900px;
+    margin: 0px auto;
+    border: 5px solid rgb(172, 167, 167);
+    padding: 20px;
+    background-color: rgb(236, 217, 106);
+}
+.list .text{
+    font-family: 'Times New Roman', Times, serif;
+}
+.title.pasta{
+     padding: 30px;
+    margin: 20px;
+    text-align: center;
+    border: 5px  solid rgb(147, 226, 236);
+    background-color: blueviolet;
+}
+img{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.tasto{
+    background-color: palevioletred;
+    font-weight: 400;
+}
+.giallo{
+    background-color: rgb(243, 239, 5);
+}
